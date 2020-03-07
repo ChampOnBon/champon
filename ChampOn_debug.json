@@ -7,7 +7,7 @@
 			"description" : "TEST"	
 		},
 		"release":{
-			"version" : "1.3.2",
+			"version" : "1.3.3",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/champon/master/C3/Camera",
 			"sha256" : "9abaef74a46f2e647299d517e0f05192039aca1e825bf9ba1b8b9a4d315ff973",
 			"description" : ""	
