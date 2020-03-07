@@ -3,13 +3,13 @@
 		"debug":{
 			"version" : "1.3.2",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/champon/master/C3/Camera",
-			"sha256" : "b386b6df4a7251f2616a8d8ff012291fbec75472118d0ed7c55c72235ec81c76",
+			"sha256" : "9abaef74a46f2e647299d517e0f05192039aca1e825bf9ba1b8b9a4d315ff973",
 			"description" : "TEST"	
 		},
 		"release":{
 			"version" : "1.3.2",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/champon/master/C3/Camera",
-			"sha256" : "c4ee5a141cbd073ec3aba027acbb0b9d0eb44fa26cdbd13a3b6cdd62e171c98c",
+			"sha256" : "9abaef74a46f2e647299d517e0f05192039aca1e825bf9ba1b8b9a4d315ff973",
 			"description" : ""	
 		},
 	},
