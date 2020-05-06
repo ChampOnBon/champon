@@ -12,6 +12,12 @@
 			"sha256" : "a6072cff1555da2956c540c09ee532d2bcf9e21349368dd17229f87b1d508143",
 			"description" : ""	
 		},
+		"release2":{
+			"version" : "1.3.11",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/C3/Camera",
+			"sha256" : "7e5f2110f1a1ed7c16a466062956d7416be75f71492f71d3839240f269e66c04",
+			"description" : "TEST"	
+		},
 	},
 	
 	"CS1":{
