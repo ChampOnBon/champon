@@ -1,21 +1,21 @@
 {
 	"C3":{
 		"debug":{
-			"version" : "1.5.5",
+			"version" : "1.5.6",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/champon/master/C3/Camera",
-			"sha256" : "8f9eb21769be613be456bb04004df9b55e296e0f6190da3389723f7fbc3fd35e",
+			"sha256" : "0d4cab5fa93548a38575b2efaf009b7e4131549d8a559a58e6066b19c76b54e7",
 			"description" : "TEST"	
 		},
 		"release":{
-			"version" : "1.5.5",
+			"version" : "1.5.6",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/champon/master/C3/Camera",
-			"sha256" : "8f9eb21769be613be456bb04004df9b55e296e0f6190da3389723f7fbc3fd35e",
+			"sha256" : "0d4cab5fa93548a38575b2efaf009b7e4131549d8a559a58e6066b19c76b54e7",
 			"description" : ""	
 		},
 		"release2":{
-			"version" : "1.5.5",
+			"version" : "1.5.6",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Onvis/master/C3/Camera",
-			"sha256" : "8f9eb21769be613be456bb04004df9b55e296e0f6190da3389723f7fbc3fd35e",
+			"sha256" : "0d4cab5fa93548a38575b2efaf009b7e4131549d8a559a58e6066b19c76b54e7",
 			"description" : "TEST"	
 		},
 	},
