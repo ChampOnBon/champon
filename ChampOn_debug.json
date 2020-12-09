@@ -44,4 +44,19 @@
 			"sha256_2" : "0f296be1f4547abe319835256c1b3aa100359382a62dc4aede7934e4c66d1fcb"
 		},
 	},
+	
+	"K1":{
+		"debug":{
+			"version" : "1.0.3",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/champon/master/K1/K1.bin",
+			"sha256" : "dafb7835817c0a29caa256399bf8e76027f07e423f1dfc4c351bf2371a744636",
+			"description" : "debug"	
+		},
+		"release":{
+			"version" : "1.0.3",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/champon/master/K1/K1.bin",
+			"sha256" : "dafb7835817c0a29caa256399bf8e76027f07e423f1dfc4c351bf2371a744636",
+			"description" : "release"	
+		}
+	},
 }
