@@ -48,13 +48,13 @@
 	"K1":{
 		"debug":{
 			"version" : "1.0.3",
-			"url" : "https://raw.githubusercontent.com/ChampOnBon/champon/master/K1/K1.bin",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/champon/master/K1/debug_K1.bin",
 			"sha256" : "dafb7835817c0a29caa256399bf8e76027f07e423f1dfc4c351bf2371a744636",
 			"description" : "debug"	
 		},
 		"release":{
 			"version" : "1.0.3",
-			"url" : "https://raw.githubusercontent.com/ChampOnBon/champon/master/K1/K1.bin",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/champon/master/K1/release_K1.bin",
 			"sha256" : "dafb7835817c0a29caa256399bf8e76027f07e423f1dfc4c351bf2371a744636",
 			"description" : "release"	
 		}
